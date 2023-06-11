@@ -18,5 +18,5 @@
 <h3 align="left">Database:</h3>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> </a>
 
-![Profile views](https://gpvc.arturio.dev/erolisldk)  
+
   <a href="" target="_blank"> <img src="https://github.com/erolisldk/erolisldk/blob/main/Erol%20Isildak.png?raw=true" alt="mysql" width="600" height="150"/> </a>
