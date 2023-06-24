@@ -21,4 +21,9 @@
   <br/>
   <br/>
 
+  
+  <a href="" target="_blank"> <img src="https://github.com/erolisldk/erolisldk/blob/main/github-contribution-grid-snake.gif" alt="mysql" width="600" height="150"/> </a>
+   <br/>
+  <br/>
+  
   <a href="" target="_blank"> <img src="https://github.com/erolisldk/erolisldk/blob/main/Erol%20Isildak.png?raw=true" alt="mysql" width="600" height="150"/> </a>
