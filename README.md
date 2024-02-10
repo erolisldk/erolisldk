@@ -1,8 +1,8 @@
 ### Hi👋, I'm Erol..
 
-- 🔭 I’m currently working as a Software Engineer.
-- Currently working on Frankfurt/Germany
-- 📫 How to reach me: ei@fruveg.de
+- 🔭 I’m currently working as a Software Test Engineer (mobile).
+- Currently working on Pointr Deep Location Company.
+- 📫 How to reach me: erol.isildak@pointr.tech
 
 
 <h3 align="left">Connect with me:</h3>
